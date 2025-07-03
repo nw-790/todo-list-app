@@ -26,3 +26,17 @@ This is a beginner-friendly to-do list application built using HTML, CSS, and Ja
 1. Clone the repo  
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
+
+2. Navigate into the project folder  
+   ```bash
+   cd todo-list-app
+
+3. Open index.html in your browser
+
+🛠 Tech Stack
+-HTML5
+-CSS3
+-JavaScript (Vanilla)
+-LocalStorage API
+
+📸 Screenshots
